@@ -1,0 +1,14 @@
+D:\belajar\c#\OOP C#\Intro OOP\Dice Roll Game Fix\bin\Debug\net8.0\Dice Roll Game Fix.exe
+D:\belajar\c#\OOP C#\Intro OOP\Dice Roll Game Fix\bin\Debug\net8.0\Dice Roll Game Fix.deps.json
+D:\belajar\c#\OOP C#\Intro OOP\Dice Roll Game Fix\bin\Debug\net8.0\Dice Roll Game Fix.runtimeconfig.json
+D:\belajar\c#\OOP C#\Intro OOP\Dice Roll Game Fix\bin\Debug\net8.0\Dice Roll Game Fix.dll
+D:\belajar\c#\OOP C#\Intro OOP\Dice Roll Game Fix\bin\Debug\net8.0\Dice Roll Game Fix.pdb
+D:\belajar\c#\OOP C#\Intro OOP\Dice Roll Game Fix\obj\Debug\net8.0\Dice Roll Game Fix.GeneratedMSBuildEditorConfig.editorconfig
+D:\belajar\c#\OOP C#\Intro OOP\Dice Roll Game Fix\obj\Debug\net8.0\Dice Roll Game Fix.AssemblyInfoInputs.cache
+D:\belajar\c#\OOP C#\Intro OOP\Dice Roll Game Fix\obj\Debug\net8.0\Dice Roll Game Fix.AssemblyInfo.cs
+D:\belajar\c#\OOP C#\Intro OOP\Dice Roll Game Fix\obj\Debug\net8.0\Dice Roll Game Fix.csproj.CoreCompileInputs.cache
+D:\belajar\c#\OOP C#\Intro OOP\Dice Roll Game Fix\obj\Debug\net8.0\Dice Roll Game Fix.dll
+D:\belajar\c#\OOP C#\Intro OOP\Dice Roll Game Fix\obj\Debug\net8.0\refint\Dice Roll Game Fix.dll
+D:\belajar\c#\OOP C#\Intro OOP\Dice Roll Game Fix\obj\Debug\net8.0\Dice Roll Game Fix.pdb
+D:\belajar\c#\OOP C#\Intro OOP\Dice Roll Game Fix\obj\Debug\net8.0\Dice Roll Game Fix.genruntimeconfig.cache
+D:\belajar\c#\OOP C#\Intro OOP\Dice Roll Game Fix\obj\Debug\net8.0\ref\Dice Roll Game Fix.dll
